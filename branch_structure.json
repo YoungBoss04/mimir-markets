@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-402-feat-api-add-etag-support-to-the-public-vs-list",
+    "fix/issue-337-fix-ui-respect-prefers-reduced-motion-in-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-402-feat-api-add-etag-support-to-the-public-vs-list": "main",
+    "fix/issue-337-fix-ui-respect-prefers-reduced-motion-in-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-402-feat-api-add-etag-support-to-the-public-vs-list",
+    "fix/issue-337-fix-ui-respect-prefers-reduced-motion-in-the",
+    "origin"
+  ]
+}
